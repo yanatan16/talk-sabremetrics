@@ -1,0 +1,22 @@
+{
+  "name": "sabremetrics",
+  "version": "1.0.0",
+  "description": "A talk given by [Jon Eisen](http://joneisen.works) at Powder Keg Brewing's Nerd Night.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yanatan16/talk-sabremetrics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yanatan16/talk-sabremetrics/issues"
+  },
+  "homepage": "https://github.com/yanatan16/talk-sabremetrics#readme",
+  "devDependencies": {
+    "reveal.js": "^3.3.0"
+  }
+}
